@@ -1,0 +1,19 @@
+{
+    "name": "Wizard",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "4Z3t2H7BWu1hhiZ4e2nCEy2ux62PTGrDGwC4CD4JebtV",
+          "share": 100
+        }
+      ]
+    }
+  }
